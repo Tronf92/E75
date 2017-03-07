@@ -1,0 +1,23 @@
+﻿Build started 2/15/2014 1:26:04 AM.
+     1>Project "c:\Users\Ady\documents\visual studio 2012\Projects\e 75\e 75\e 75.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\e 75.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\e 75.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "e 75.cpp" "e 75Dlg.cpp" InfoAzi.cpp
+         InfoAzi.cpp
+     1>c:\users\ady\documents\visual studio 2012\projects\e 75\e 75\infoazi.cpp(47): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>c:\users\ady\documents\visual studio 2012\projects\e 75\e 75\infoazi.cpp(48): error C2039: 'AddString' : is not a member of 'CEdit'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxwin.h(3944) : see declaration of 'CEdit'
+     1>c:\users\ady\documents\visual studio 2012\projects\e 75\e 75\infoazi.cpp(51): error C2039: 'AddString' : is not a member of 'CEdit'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxwin.h(3944) : see declaration of 'CEdit'
+     1>c:\users\ady\documents\visual studio 2012\projects\e 75\e 75\infoazi.cpp(54): error C2039: 'AddString' : is not a member of 'CEdit'
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxwin.h(3944) : see declaration of 'CEdit'
+         e 75Dlg.cpp
+         e 75.cpp
+         Generating Code...
+     1>Done Building Project "c:\Users\Ady\documents\visual studio 2012\Projects\e 75\e 75\e 75.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.62
